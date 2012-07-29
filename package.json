@@ -1,0 +1,17 @@
+{
+  "author": "Noah Sloan",
+  "name": "pushState",
+  "description": "Demo of CanJS pushState",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.11"
+  },
+  "dependencies": {
+    "express":"~3.0.0rc1"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
